@@ -10,7 +10,4 @@ The main functions of this application are to:
 <li>Calculate profit if coins were sold at certain prices</li>
 
 # How to Demo
-<ol>
-<li>Download repository</li>
-<li>Open <strong>index.html</strong></li>
-</ol>
+A live demo can be <a href="https://yong-portfolio.onrender.com">found here.</a>
