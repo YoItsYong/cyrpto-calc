@@ -11,4 +11,4 @@ The main functions of this application are to:
 <li>Practice getting data from APIs and manipulating it</li>
 
 # How to Demo
-A live demo can be <a href="https://yong-portfolio.onrender.com">found here.</a>
+A live demo can be <a href="https://crypto-calc.onrender.com/">found here.</a>
