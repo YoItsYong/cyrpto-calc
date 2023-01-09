@@ -8,6 +8,7 @@ While the hype around crypto (along with my interest) has evaporated, I am still
 The main functions of this application are to:
 <li>Get live Cyrpto prices</li>
 <li>Calculate profit if coins were sold at certain prices</li>
+<li>Practice getting data from APIs and manipulating it</li>
 
 # How to Demo
 A live demo can be <a href="https://yong-portfolio.onrender.com">found here.</a>
