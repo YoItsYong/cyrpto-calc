@@ -10,5 +10,10 @@ The main functions of this application are to:
 <li>Calculate profit if coins were sold at certain prices</li>
 <li>Practice getting data from APIs and manipulating it</li>
 
+# This Project Uses
+<li>Javascript: DOM manipulation and interaction between buttons and API Data.</li>
+<li>CoinGecko API: Fetches latest cryptocurrency prices and used JS to display correctly.</li>
+<li>CSS Animations: Experimenting with CSS gradient animations that are often seen in modern websites.</li>
+
 # How to Demo
 A live demo can be <a href="https://crypto-calc.onrender.com/">found here.</a>
